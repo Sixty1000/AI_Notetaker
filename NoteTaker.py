@@ -4,9 +4,7 @@ from google.cloud import vision
 from openai import OpenAI
 client_gpt = OpenAI(api_key="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")
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'quiet-spirit-442216-f2-9231c515826d.json'
-
-input_file = file = open("text_input.txt", encoding="utf8")
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'quiet-spirit-442216-f2-a31ef3b59745.json'
 
 def detect_text(path):
     client = vision.ImageAnnotatorClient()
