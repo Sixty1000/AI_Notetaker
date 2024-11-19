@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "quiet-spirit-442216-f2",
+  "private_key_id": "9231c515826d21901e06b209bb2cc8e925519d15",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3+w81O+qwkKME\n5hT/aFQUkLEA+1fCU78+bfZH9vnP+t4/swe9j5r2VcdD/XYJBVyiY2FzXMy/2P1a\nQTk56BFKFdd2uiQ4L7P3xpgk5aCdU0T+ekZAQpl/voqh4szao6rXw6ek1PM4ipB+\nRT4fzmDzeEXUQFq1qguGfKwxPxqjq080FSrqYu1S3xYPSg7AWQP8bD/kZutVymKZ\ntQenDn9aazurgYEn+qeVMy/N0q4tbrgb0go7YupOp/hCH7lcFH/v2lwEMs27UgB4\ntbVXX0fk3zTG+tKHeP8100Prz5h220j8KUOU8DvBqY8rV8M/+AJoEWBgiRsB/3/A\nzb6RxUQ1AgMBAAECggEACJo9+N7j13OGKGj7Ijiz9lJ98NdPxNH/gEpKHTsr5B6W\nc57AwUI+7ppy5ADjmvA74vg1oaVYidHnysLti5P2Fv7LKrI6ccCvi3wCgQjfWlmR\nU6iFjkAThy+pRDeIHVC+hVc1dkxidZNrWJ1FzUrHl09ZcahzPoAEdqgmsU1d2ScS\nu+LP4xgOI3bLydzpnixl4z6891ZBPx1vNji9rGtKITeqqf8+4EtcrIN1PB7lHwLz\nreQw37zu3dzRO5nECuav97uyHuMHfZHoZ41FWga0EopxSoI8IFzYs1kWNV6ekyCt\nOaFvSmdRFwgYRoPxyvE7XsGkq5NkgDBTQ+nN5bxXIwKBgQDqP7SS7kVdCSfeFSzm\nmUBrq8WqzzwSxeiYevGVcL0rDPZb/fmLo2xBkLSzOxdqeGDlzq0VuKmmEtA5OEK+\n0Ec+ufLhGt84ECEFEyeQDpaDvLklLGTljfMjvp0wT/AHgTSnzNzLZv3DDZbEH2zm\nQt3HNta1CY6b47n3MlygbHOkiwKBgQDJEG/12ed7KxdlLWpNgZ+g0wSk3Z4t87Xk\nJGN3UZXE8gB+LXbLxIpzax0IccH4Ju0ruK280w8GVbsqzTNTDlPcyezvN7w670kv\n7fgkwhx78eY809tfdzgD94Y917QCmMGHvqLT6MWlbznb2l13ybqCOiYo/DxQjJcg\njTTxMPoSPwKBgBaLCPK28X/xmJ+bxBVxHC0Ae+ZjSTG5UBgUhNlP3zSca70QpQpW\nMN3icjFpd2hsq06SZD/Z5KGx384R5wJ8As87j+8v6dl4W+UkIcOQU9XbvKmiKxeY\nYJTJDFGQ79WZDpszcPA2OieiUCcRqyZBuxwn3+PORqYj9Uqf0yAxL7PfAoGADrhT\nWg5v8gZ/mfqvM6lvxFhumJtY/0g+Yst/NLcWXerRumsdrWFgOX74Cyw45TAEYRUO\nMyrIiNAx+bo4LbZ40Us/O2w7LZ1jIE0tw5MqfrCBCKcCAoU55qByhYiLNz1zvbpp\nNVZvUeNIux3Lhf+Q1gPn00xUJhmE3u83lwjc5gUCgYAOgzqh5TKBpRgjE+ROoDDe\nC8UBk5ceOn+oATMFOPhsFMK6Pt1Vyc/v1zXv7tdOveqRsWPLNs6hN6yJPY2VG1ol\nVdIso4L4B2vD5kDuzHbVeILzV/Rer5tjS4Mz86ltrfgdfWXsy5KjnhUPAQzo5bsy\nhE2kGlp4nD8xqrak4hdsYw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pdf-analyzer@quiet-spirit-442216-f2.iam.gserviceaccount.com",
+  "client_id": "105242936468214478967",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pdf-analyzer%40quiet-spirit-442216-f2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
