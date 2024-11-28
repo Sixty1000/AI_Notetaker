@@ -26,8 +26,8 @@ def detect_text(path):
     return texts[0].description
 
 image_path = "test_run.JPG"
+image_path = input("Input the file location: ")
 input_txt = detect_text(image_path)
-
 
 def query_input(text_input):
     chat_completion = client_gpt.chat.completions.create(
